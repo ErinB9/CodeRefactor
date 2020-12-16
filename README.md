@@ -1,2 +1,0 @@
-# CodeRefractor
-First homework
